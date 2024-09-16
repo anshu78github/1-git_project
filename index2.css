@@ -1,3 +1,12 @@
 span{
- color:rgb(191, 142, 81)
+ color:rgb(191, 142, 81);
+}
+.body{
+ background-color: rgb(123, 132, 175);
+}
+h3{
+    color: aliceblue;
+}
+h1{
+    color: rgb(185, 234, 217);
 }
